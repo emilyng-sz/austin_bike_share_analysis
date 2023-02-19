@@ -1,0 +1,73 @@
+start_station_name,end_station_name,day,parts_of_day,duration_minutes,month,subscriber_type,year,start_hour,count
+Riverside @ S. Lamar,Riverside @ S. Lamar,6,early afternoon,49.10989403500417,7,Walk Up,2015.456959161805,14.908322419335635,8399
+Rainey St @ Cummings,Rainey St @ Cummings,5,early afternoon,55.968623303366826,7,Walk Up,2015.6114930371937,14.173453199365415,5673
+2nd & Congress,2nd & Congress,5,early afternoon,64.68803517704235,5,Walk Up,2015.417033094191,13.461467252950706,4321
+City Hall / Lavaca & 2nd,City Hall / Lavaca & 2nd,5,early afternoon,58.7516872236444,3,Walk Up,2015.1515010472422,13.902722829881313,4297
+Capitol Station / Congress & 11th,Capitol Station / Congress & 11th,6,late afternoon,44.236900165471596,7,Walk Up,2015.0970766685052,14.570601213458357,3626
+Zilker Park,Zilker Park,5,late afternoon,53.53087787316533,3,Walk Up,2016.2157297147605,14.5325394627527,3611
+Pfluger Bridge @ W 2nd Street,Pfluger Bridge @ W 2nd Street,6,late afternoon,51.269374819936615,7,Walk Up,2015.5620858542206,14.486891385767791,3471
+Barton Springs & Riverside,Barton Springs & Riverside,5,early afternoon,65.46764509673116,7,Walk Up,2015.0710473649099,14.663442294863243,2998
+Palmer Auditorium,Palmer Auditorium,6,early afternoon,56.798149417409185,3,Walk Up,2015.3941055517478,14.227553118574367,2918
+Davis at Rainey Street,Davis at Rainey Street,5,late afternoon,52.51945320715037,3,Walk Up,2015.572029442692,14.150718541885734,2853
+Barton Springs Pool,Barton Springs Pool,6,early afternoon,47.56331569664903,3,Walk Up,2015.3996472663139,14.208465608465609,2835
+Long Center @ South 1st & Riverside,Long Center @ South 1st & Riverside,5,early afternoon,57.21374865735768,3,Walk Up,2015.5116362334406,14.78625134264232,2793
+Convention Center / 4th St. @ MetroRail,Convention Center / 4th St. @ MetroRail,5,early afternoon,56.826367781155014,3,Walk Up,2015.120820668693,13.940729483282675,2632
+MoPac Pedestrian Bridge @ Veterans Drive,MoPac Pedestrian Bridge @ Veterans Drive,5,early afternoon,58.27746104142911,6,Walk Up,2016.3690611934626,14.100342075256556,2631
+4th & Congress,4th & Congress,5,early afternoon,51.4771660264618,3,Walk Up,2015.196329492104,14.359795134443022,2343
+Barton Springs @ Kinney Ave,Barton Springs @ Kinney Ave,5,early afternoon,52.70662051060147,6,Walk Up,2015.5543054954564,14.833838165296408,2311
+Convention Center / 3rd & Trinity,Convention Center / 3rd & Trinity,5,late afternoon,55.81098696461825,3,Walk Up,2015.6238361266294,13.773743016759777,2148
+5th & Bowie,5th & Bowie,5,early afternoon,47.732041587901705,3,Walk Up,2015.2159735349717,13.948015122873345,2116
+South Congress & James,South Congress & James,5,early afternoon,48.71532492725509,3,Walk Up,2015.1183317167797,14.676527643064986,2062
+UT West Mall @ Guadalupe,UT West Mall @ Guadalupe,5,late afternoon,60.30162703379224,7,Walk Up,2015.2403003754694,14.20775969962453,1598
+8th & Congress,8th & Congress,6,early afternoon,60.229268292682924,3,Walk Up,2014.9581881533102,14.218815331010452,1435
+Bullock Museum @ Congress & MLK,Bullock Museum @ Congress & MLK,5,early afternoon,44.14064697609001,3,Walk Up,2015.2362869198312,14.316455696202532,1422
+South Congress & Elizabeth,South Congress & Elizabeth,5,early afternoon,56.87293610911701,3,Walk Up,2015.1715721464466,14.49102656137832,1393
+South Congress & Academy,South Congress & Academy,5,early afternoon,57.2424023154848,3,Walk Up,2015.143994211288,15.087554269175108,1382
+Trinity & 6th Street,Trinity & 6th Street,5,early afternoon,45.881454545454545,3,Walk Up,2015.101090909091,13.976,1375
+West & 6th St.,West & 6th St.,5,early afternoon,36.27671022290546,3,Walk Up,2015.3274404304382,14.103766333589547,1301
+San Jacinto & 8th Street,San Jacinto & 8th Street,5,late afternoon,63.76645264847512,3,Walk Up,2014.9967897271267,13.528892455858747,1246
+State Capitol Visitors Garage @ San Jacinto & 12th,State Capitol Visitors Garage @ San Jacinto & 12th,5,early afternoon,56.10552349546579,3,Walk Up,2015.370981038747,14.211871393239901,1213
+Guadalupe & 21st,Guadalupe & 21st,5,early afternoon,54.53807531380753,3,Walk Up,2015.1698744769874,14.400836820083683,1195
+Republic Square @ Guadalupe & 4th St.,Republic Square @ Guadalupe & 4th St.,5,early afternoon,51.34618916437098,3,Walk Up,2014.6868686868686,14.112029384756658,1089
+3rd & West,3rd & West,6,late afternoon,39.73191094619666,3,Walk Up,2015.491651205937,14.584415584415584,1078
+Red River & 8th Street,Red River & 8th Street,5,late afternoon,68.87308533916848,3,Walk Up,2015.4146608315098,14.12144420131291,914
+Plaza Saltillo,Plaza Saltillo,5,early afternoon,45.744,3,Walk Up,2015.472,14.353142857142856,875
+South Congress & Barton Springs at the Austin American-Statesman,South Congress & Barton Springs at the Austin American-Statesman,5,late afternoon,60.32114285714286,4,Walk Up,2016.6217142857142,14.436571428571428,875
+State Capitol @ 14th & Colorado,State Capitol @ 14th & Colorado,5,early afternoon,49.73428232502965,3,Walk Up,2015.0901542111505,14.391459074733095,843
+17th & Guadalupe,17th & Guadalupe,5,late morning,52.32841328413284,3,Walk Up,2015.129151291513,13.896678966789668,813
+Brazos & 6th,Brazos & 6th,6,early afternoon,69.81364829396325,3,Walk Up,2016.291338582677,13.909448818897637,762
+East 11th St. & San Marcos,East 11th St. & San Marcos,5,early afternoon,48.24184782608695,3,Walk Up,2015.3872282608695,13.449728260869565,736
+5th & San Marcos,5th & San Marcos,5,early afternoon,41.08320726172466,3,Walk Up,2015.3540090771558,14.617246596066567,661
+Toomey Rd @ South Lamar,Toomey Rd @ South Lamar,5,late afternoon,49.35725677830941,10,Walk Up,2014.6858054226475,14.829346092503988,627
+ACC - West & 12th Street,ACC - West & 12th Street,5,early afternoon,36.66942148760331,3,Walk Up,2015.0148760330578,14.320661157024793,605
+East 11th St. at Victory Grill,East 11th St. at Victory Grill,5,early afternoon,53.37919463087248,3,Walk Up,2015.4194630872482,13.593959731543624,596
+Waller & 6th St.,Waller & 6th St.,5,early afternoon,38.466437177280554,3,Walk Up,2014.6695352839931,14.25473321858864,581
+East 6th at Robert Martinez,East 6th at Robert Martinez,5,early afternoon,47.065934065934066,3,Walk Up,2015.6355311355312,13.56043956043956,546
+East 6th & Pedernales St.,East 6th & Pedernales St.,5,late afternoon,55.63983903420523,5,Walk Up,2015.4044265593561,14.396378269617706,497
+Capital Metro HQ - East 5th at Broadway,Capital Metro HQ - East 5th at Broadway,4,late morning,36.54567307692308,10,Local365,2015.3028846153845,12.89423076923077,416
+Nueces @ 3rd,Nueces @ 3rd,5,early afternoon,33.40263157894737,10,Walk Up,2015.1157894736841,14.213157894736842,380
+Rainey @ River St,Rainey @ River St,6,early afternoon,41.6010781671159,1,Walk Up,2015.3045822102426,14.436657681940702,371
+Lavaca & 6th,Lavaca & 6th,5,early afternoon,49.255494505494504,7,Walk Up,2015.9587912087911,13.82967032967033,364
+East 2nd & Pedernales,East 2nd & Pedernales,5,late morning,53.65028901734104,2,Walk Up,2016.1878612716764,13.3121387283237,346
+East 4th & Chicon,East 4th & Chicon,4,early afternoon,41.466887417218544,5,Walk Up,2016.1788079470198,14.172185430463577,302
+Republic Square @ Federal Courthouse Plaza,Republic Square @ Federal Courthouse Plaza,5,late afternoon,49.63898916967509,9,Walk Up,2016.3718411552347,14.440433212996389,277
+11th & San Jacinto,11th & San Jacinto,5,late afternoon,46.886861313868614,7,Walk Up,2016.0547445255474,13.861313868613138,274
+Boardwalk West,Boardwalk West,1,evening,48.36057692307692,6,Walk Up,2017.0,15.524038461538462,208
+6th & Congress,6th & Congress,5,late afternoon,50.5025641025641,4,Walk Up,2017.0,14.312820512820513,195
+6th & Navasota St.,6th & Navasota St.,5,late afternoon,43.578125,3,24-Hour Kiosk (Austin B-cycle),2014.0,14.869791666666666,192
+ACC - Rio Grande & 12th,ACC - Rio Grande & 12th,5,late afternoon,42.46783625730994,3,24-Hour Kiosk (Austin B-cycle),2014.3508771929824,15.175438596491228,171
+Pease Park,Pease Park,5,late afternoon,30.656626506024097,3,Walk Up,2016.5421686746988,14.27710843373494,166
+Nueces & 3rd,Nueces & 3rd,6,evening,45.848101265822784,5,Walk Up,2017.0,14.474683544303797,158
+Medina & East 6th,Medina & East 6th,6,evening,23.38888888888889,3,Walk Up,2017.0,13.680555555555555,144
+13th & San Antonio,13th & San Antonio,1,late morning,26.96969696969697,3,Local365,2017.0,12.613636363636363,132
+Republic Square,Republic Square,5,late afternoon,45.73504273504273,1,24-Hour Kiosk (Austin B-cycle),2014.1196581196582,14.427350427350428,117
+Zilker Park West,Zilker Park West,5,evening,20.489583333333332,10,Walk Up,2015.3125,16.84375,96
+Guadalupe & 6th,Guadalupe & 6th,2,late afternoon,42.464285714285715,3,Walk Up,2017.0,13.547619047619047,84
+Red River & LBJ Library,Red River & LBJ Library,6,late morning,53.392405063291136,8,24-Hour Kiosk (Austin B-cycle),2014.253164556962,13.278481012658228,79
+East 7th & Pleasant Valley,East 7th & Pleasant Valley,5,late afternoon,55.763636363636365,10,Walk Up,2016.0,13.709090909090909,55
+Sterzing at Barton Springs,Sterzing at Barton Springs,6,evening,62.83018867924528,7,Walk Up,2017.0,15.830188679245284,53
+Congress & Cesar Chavez,Congress & Cesar Chavez,5,early afternoon,41.86274509803921,7,Walk Up,2017.0,12.588235294117647,51
+State Parking Garage @ Brazos & 18th,State Parking Garage @ Brazos & 18th,1,early afternoon,34.470588235294116,3,24-Hour Kiosk (Austin B-cycle),2014.0,14.03921568627451,51
+8th & Guadalupe,8th & Guadalupe,3,late afternoon,36.34782608695652,5,24-Hour Kiosk (Austin B-cycle),2014.0,13.08695652173913,46
+OFFICE/Main/Shop/Repair,OFFICE/Main/Shop/Repair,0,early afternoon,25.625,1,Annual Membership (Austin B-cycle),2014.6,12.875,40
+Henderson & 9th,Henderson & 9th,6,late morning,25.75,7,Walk Up,2017.0,13.666666666666666,12
