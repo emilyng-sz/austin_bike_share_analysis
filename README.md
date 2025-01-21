@@ -1,5 +1,6 @@
 ## Austin Bike Share Analysis
-This repository cleans the Austin Bike Share Trips datasets taken from Kaggle using Python, and further analyses the data using Python data exploration and Tableau visualisations
+This repository cleans the Austin Bike Share Trips datasets taken from Kaggle using Python, and further analyses the data using Python data exploration and Tableau visualisations.
+This analysis was done as part of a hiring assessment for my first internship role as a Data Analyst at a startup.
 
 Data Source: https://www.kaggle.com/jboysen/austin-bike
 
