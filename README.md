@@ -1,13 +1,13 @@
-## About
-This repository cleans and analyses the Austin Bike Share Trips datasets taken from Kaggle using Python and Tableau. 
+## Austin Bike Share Analysis
+This repository cleans the Austin Bike Share Trips datasets taken from Kaggle using Python, and further analyses the data using Python data exploration and Tableau visualisations
 
 Data Source: https://www.kaggle.com/jboysen/austin-bike
 
-## Files
+## How to Use
 Data files created and used have been pre-downloaded and are saved in the `data` folder. 
-If you wish to download data, you can change `download_files` to `True` which allows the code for downloading run.
+To download the datasets to your local environment, change `download_files` to `True`.
 
-There are three folders and a txt file in this repository
+## Directory
 - `data folder`: contains the two original datasets from Kaggle and other datasets that have been created through the cleaning and analysis process. 
 contains three folders and a txt file
 - `data_cleaning_scripts`: contains the Python Notebook file used to clean and validate the data
